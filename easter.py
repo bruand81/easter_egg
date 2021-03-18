@@ -51,4 +51,4 @@ def giveegg(bot , trigger):
         eggita.adminegg(bot , trigger)
     else:
         bot.say("You can't give eggs :) ")
-        bot.notice("Because you suck o.o" , trigger.nick)
+       
