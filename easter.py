@@ -11,7 +11,7 @@ strings = {
 }   # The bot is designed to stay in #italiano, but we expect people from everywhere to come to find the egg. The strings
     # are both in Italian and English.
 
-class easteregg:    # everything is inside a single little class
+class easteregg:    # everything is inside a single little class.
     
     def __init__(self):
         self.user = {}   # this dict will store the user's nick of whoever uses the .easteregg command. Being a dict
